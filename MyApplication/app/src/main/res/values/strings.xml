@@ -1,4 +1,13 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Lemon Merchant</string>
     <string name="action_settings">Settings</string>
+    <string name="text_view_value">Marmalade</string>
+    <string-array
+        name="ben_edlund_characters">
+        <item>The Tick</item>
+        <item>Arthur</item>
+        <item>Die Fledermaus</item>
+        <item>American Maid</item>
+    </string-array>
+    <string name="and_with_ampersand">Rick &amp; Morty</string>
 </resources>
