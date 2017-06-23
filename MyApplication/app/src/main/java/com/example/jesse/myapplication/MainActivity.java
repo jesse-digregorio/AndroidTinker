@@ -27,10 +27,10 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        /*
-        final TextView textViewToChange = (TextView) findViewById(R.id.practiceTextView);
+
+        TextView textViewToChange = (TextView) findViewById(R.id.practiceTextView);
         textViewToChange.setText("HOWDY!");
-        */
+
     }
 
     @Override
